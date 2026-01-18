@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Omana Prabhakar</h1>
-<p>Graduate Master's student in Data Science at Heriot-Watt University. I'm passionate about turning complex data into actionable insights through Data Visualization, Analytics, and Big Data Management. I'm also exploring the world of Computer Vision, where I enjoy building intelligent systems that interpret and understand visual information. Always eager to learn and apply data-driven solutions to real-world challenges.</p>
+<p>I build thoughtful, real-world AI systems where technology meets human needs. My work focuses on Generative AI, ML systems, and responsible design — from RAG-based customer support and cost optimisation to AI companions that prioritise safety and empathy. I learn by building, questioning assumptions, and turning complex ideas into systems that actually work.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
