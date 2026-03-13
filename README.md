@@ -1,7 +1,7 @@
 # Hi, I'm Omana 👋
 
 **AI Product Builder · Prompt Engineer · MSc Data Science**  
-📍 London, UK · Building here, growing here, staying here.
+📍 London, UK · Building and growing here
 
 ---
 
