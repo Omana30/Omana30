@@ -8,7 +8,7 @@
 ### What I build
 
 I sit at the intersection of AI, empathy, and real human impact.  
-I don't just study AI — I ship it. Every project here has been built, tested, and deployed.
+I don't just study AI, I ship it. Every project here has been built, tested, and deployed.
 
 ---
 
