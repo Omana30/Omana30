@@ -1,14 +1,54 @@
-<h1>Hi 👋, I'm Omana Prabhakar</h1>
-<p>I build thoughtful, real-world AI systems where technology meets human needs. My work focuses on Generative AI, ML systems, and responsible design — from RAG-based customer support and cost optimisation to AI companions that prioritise safety and empathy. I learn by building, questioning assumptions, and turning complex ideas into systems that actually work.
-</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Omana Prabhakar" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omana30" alt="Omana30" /></a></p>
+# Hi, I'm Omana 👋
+
+**AI Product Builder · Prompt Engineer · MSc Data Science**  
+📍 London, UK · Building here, growing here, staying here.
+
+---
+
+### What I build
+
+I sit at the intersection of AI, empathy, and real human impact.  
+I don't just study AI — I ship it. Every project here has been built, tested, and deployed.
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [PromptKit](https://github.com/Omana30/PromptKit) | 25 battle-tested LLM prompt templates — extraction, RAG, CoT, structured output | Python · LangChain · OpenAI · Anthropic |
+| SentimentLens *(coming soon)* | Real-time financial sentiment dashboard extending my MSc thesis | Python · Plotly · FastAPI · HuggingFace |
+| LondonAI Transit *(coming soon)* | RAG-powered natural language assistant for TfL live data | LangChain · ChromaDB · TfL API · Streamlit |
+
+---
+
+### 🧠 Technical skills
+
+```
+AI & GenAI        Prompt Engineering · LLMs · RAG Systems · LangChain · GPT-4o · HuggingFace
+Data & ML         Python · SQL · NLP · XGBoost · Sentiment Analysis · Data Pipelines
+Cloud & Infra     AWS SageMaker · Supabase · Docker · Git · CI/CD
+Product           User Research · Product Thinking · Stakeholder Communication
+```
+
+---
+
+### 📌 Background
+
+- 🎓 MSc Applied Statistical Modelling with Data Science — Heriot-Watt University
+- 💼 AI/ML Engineer Intern — Voyage Companion *(25% AWS cost reduction)*
+- 🏥 Built Clinical Co-pilot — 98% medical transcription accuracy using GPT-4o + Deepgram
+- 📊 MSc Thesis — NLP + ML pipeline for stock market sentiment prediction (95% accuracy improvement)
+- 🇬🇧 Based in London · committed to building a long-term career in the UK
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omana_Prabhakar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/omana-prabhakar-b0b131201)
+[![Email](https://img.shields.io/badge/Email-omana__prabhakar%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omana_prabhakar@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=flat&logo=vercel)](https://omana30.github.io)
+
+---
+
+*"I build AI that genuinely helps people."*
