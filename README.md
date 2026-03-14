@@ -18,7 +18,7 @@ I don't just study AI, I ship it. Every project here has been built, tested, and
 |---|---|---|
 | [PromptKit](https://github.com/Omana30/PromptKit) | 25 battle-tested LLM prompt templates — extraction, RAG, CoT, structured output | Python · OpenAI · Anthropic · LangChain |
 | [SentimentLens](https://github.com/Omana30/SentimentLens) | Real-time AI financial sentiment dashboard — extends MSc thesis research on NLP-driven stock prediction | Python · VADER · FastAPI · Plotly Dash · NewsAPI |
-| LondonAI Transit *(coming soon)* | RAG-powered natural language assistant for TfL live data | LangChain · ChromaDB · TfL API · Streamlit |
+| [LondonAI Transit](https://github.com/Omana30/LondonAiTransit) | RAG-powered natural language assistant for TfL live data | LangChain · ChromaDB · TfL API · Streamlit |
 
 ---
 
