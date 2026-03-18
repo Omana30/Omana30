@@ -36,11 +36,11 @@ Product           User Research · Product Thinking · Stakeholder Communication
 
 ### Background
 
-- MSc Applied Statistical Modelling with Data Science — Heriot-Watt University, Edinburgh
-- AI/ML Engineer Intern — Voyage Companion *(25% AWS cost reduction)*
-- MSc Thesis — NLP + ML pipeline for stock market sentiment prediction
-- Personal project — TherapyNote AI: clinical transcription tool for therapists using GPT-4o
-- 🇬🇧 Based in London · committed to building a long-term career in the UK
+- MSc Applied Statistical Modelling with Data Science | Heriot-Watt University, Edinburgh
+- AI/ML Engineer Intern | Voyage Companion *(25% AWS cost reduction)*
+- MSc Thesis | NLP + ML pipeline for stock market sentiment prediction
+- Personal project | Clinical co-pilot: clinical transcription tool for therapists using GPT-4o
+- 🇬🇧 Based in London 
 
 ---
 
