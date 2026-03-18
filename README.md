@@ -48,7 +48,7 @@ Product           User Research · Product Thinking · Stakeholder Communication
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omana_Prabhakar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/omana-prabhakar-b0b131201)
 [![Email](https://img.shields.io/badge/Email-omana__prabhakar%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omana_prabhakar@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=flat&logo=vercel)](https://omana30.github.io)
+
 
 ---
 
