@@ -5,7 +5,25 @@
 
 ---
 
-### What I build
+I enjoy building things that make data easier to understand and actually useful for decision-making. Most of my work sits at the intersection of data, systems, and real-world problems.
+
+- Data Exploration & Insights  
+  I work with Python and SQL to explore datasets, find patterns, and understand what is really driving outcomes. I like digging deeper than surface-level metrics to figure out the "why" behind performance.
+
+- Dashboards & Visual Storytelling  
+  I build dashboards using Power BI, Tableau, and QuickSight that turn complex data into something clear and intuitive. My focus is on helping both technical and non-technical users make better decisions without relying on manual reports.
+
+- Systems & Financial Data  
+  I have worked with cloud and finance-related systems (like AWS and SAP), analyzing usage and cost data to improve efficiency. I am particularly interested in how data flows through systems and supports business processes.
+
+- Automation & Data Workflows  
+  I try to reduce repetitive work by building simple data pipelines and automations. The goal is always to make things more reliable, scalable, and less dependent on manual effort.
+
+- Applied Machine Learning  
+  I enjoy applying machine learning and statistical methods to real-world problems. One of my main projects involves analyzing financial sentiment to understand and predict market behaviour.
+
+- How I Think  
+  I like approaching problems with a structured mindset, breaking them down, testing ideas, and iterating. I am especially interested in building solutions that are not just technically correct, but actually useful.
 
 
 ---
